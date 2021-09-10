@@ -1,1 +1,1 @@
-# Hosting for website images
+Hosting for website and github images
